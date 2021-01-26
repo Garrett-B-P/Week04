@@ -1,3 +1,7 @@
 Hello World.
 Added on website.
+<<<<<<< HEAD
 Another change
+=======
+Third change
+>>>>>>> e306d37f76ae385629f03ef9a758b082a20487fd
